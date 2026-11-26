@@ -1,4 +1,3 @@
-# mariox2
 # Super Mario Engine
 
 EL2003 Computer Organization and Assembly Language, BCS Fall 2026, Semester Project.
